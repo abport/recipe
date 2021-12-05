@@ -1,5 +1,5 @@
-# Recipe Grabber
-Recipe Search - API - Async Await
+# Recipe Grabber - API - Async Await
+Easily search for recipes!
 
 <p>
   <a href="https://recipe-grabber.netlify.app/"
