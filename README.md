@@ -1,7 +1,5 @@
 # Recipe Grabber - API - Async Await
 
-# Recipe
-
 A simple recipe app that allows users to search and save their favorite recipes.
 
 ## Features
